@@ -1,0 +1,20 @@
+int f(int b[], int c){
+    int i;
+    i = 4;
+    while (-1 < i){
+        b[i] = i * i;
+        i = i - 1;
+    }
+    c = 1;
+}
+
+void main(void){
+    int c[5];
+    int i;
+    i = 4;
+    while (-1 < i){
+        c[i] = i;
+        i = i - 1;
+    }
+    f(c, i);
+}

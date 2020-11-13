@@ -1,0 +1,14 @@
+int a;
+int f(int b){
+    if (b == 1){
+        return 1;
+    }
+    else{
+        return 1 + f(b-1);
+    }
+}
+
+void main(void){
+    a = f(5);
+    output(a);
+}
