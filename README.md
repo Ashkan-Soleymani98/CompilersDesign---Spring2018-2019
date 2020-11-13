@@ -11,4 +11,4 @@ Project: <br />
     Phase2: Syntatic Analysis: Parser <br />
     Phase3: Semantic Analysis and Intermediate Code Generation<br />
 
-    info: A Compiler for C Language Developed in Python Supporting     General Math and String Opreations, Indirect Addressing (Arrays),     Loops and Conditions (If and While), Function Call and even     RECURSIVE Function Call.
+    info: A Compiler for C Language Developed in Python Supporting General Math and String Opreations, Indirect Addressing (Arrays), Loops and Conditions (If and While), Function Call and even RECURSIVE Function Call.
